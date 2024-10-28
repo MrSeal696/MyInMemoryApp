@@ -14,7 +14,7 @@ MyInMemoryApp — это простое веб-приложение, разра�
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/MrSeal696/MyInMemoryApp.git
+   git clone [https://github.com/MrSeal696/MyInMemoryApp.git](https://github.com/MrSeal696/MyInMemoryApp)
    ```
 
 2. Перейдите в папку проекта:
